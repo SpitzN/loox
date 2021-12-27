@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# production
+/build
+
+# config files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.staging
